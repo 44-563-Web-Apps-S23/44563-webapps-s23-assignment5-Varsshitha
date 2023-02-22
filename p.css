@@ -1,0 +1,45 @@
+.thead{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    color: aquamarine;
+}
+
+
+
+table,th,td{
+    border: 2.5px;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 2px 2px 2px 3px;
+    margin: 3px 3px 3px 3px;
+}
+tr:hover{
+    
+    color: orangered;
+}
+
+.K{
+   
+    background-color: brown;
+
+}
+.O{
+  
+    background-color: pink;
+}
+.L{
+    
+    background-color: darkgoldenrod;
+}
+.LN{
+ 
+    background-color: lightgreen;
+}
+.I{
+   
+    background-color: seagreen;
+}
+.p{
+    
+    background-color: skyblue;
+}
